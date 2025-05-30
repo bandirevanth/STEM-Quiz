@@ -127,7 +127,7 @@ let questions = [
     options: [
       "Pigeon",
       "Parrot",
-      "Peregrine Falcont",
+      "Peregrine Falcon",
       "Sparrow"
     ]
   },
